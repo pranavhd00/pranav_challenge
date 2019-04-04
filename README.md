@@ -13,3 +13,7 @@ Steps:
 4. Create SG for ELB-
 4. Route53 for DNS mapping- Record set for ELB DNS Named
 5. Userdata scripts for certs and rewrites.
+
+
+#Credit card validation
+CreditcardVal.py
